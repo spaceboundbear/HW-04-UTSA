@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(51, 51, 51);
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 0%;
+  font-size: 50px;
+  font-weight: 800;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+button {
+  text-align: center;
+  background-color: hotpink;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+#choices {
+  list-style-type: none;
+}
+
+#button {
+  list-style-type: none;
+}
+
+#createDiv {
+  list-style-type: none;
+  color: blue;
+}
+
+#questions {
+  color: blue;
+}
